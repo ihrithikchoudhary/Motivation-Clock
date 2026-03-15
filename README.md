@@ -36,11 +36,3 @@ All in one simple and interactive interface.
 ---
 
 
-If you want, I can also help you with:  
-- **adding GitHub badges (stars, forks, license)**  
-- **writing better project tags/topics**  
-- **creating a screenshot section so your repo looks more professional.**
-
-1. Clone the repository
-```bash
-git clone https://github.com/your-username/motivation-clock.git
