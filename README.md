@@ -35,4 +35,4 @@ All in one simple and interactive interface.
 
 ---
 
-
+![Project Screenshot](screenshot.png)
