@@ -14,7 +14,12 @@ The aim of this project is to keep users motivated while also providing useful i
 ---
 
 ## Download For PC
-<a href="https://www.mediafire.com/file/o6ynmnq6k2o9udw/MotivationClockSetup.exe/file" target="/blank">Click Here</a>
+<a href="https://www.mediafire.com/file/o6ynmnq6k2o9udw/MotivationClockSetup.exe/file"
+   target="_blank"
+   rel="noopener noreferrer"
+   style="display:inline-block;padding:10px 20px;background:#e53935;color:#fff;text-decoration:none;border-radius:6px;font-weight:600;">
+   Download Motivation Clock
+</a>
 
 ## 🛠 Technologies Used
 
